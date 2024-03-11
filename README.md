@@ -11,3 +11,8 @@
     
  Daftar perintah GiT
  …
+ git branch
+ git add
+ git commit
+ git merge
+ git push
